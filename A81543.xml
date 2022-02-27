@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of 29, sects here in London, all of which, except the first, are most divelish and damnable, being these which follow. Protestants. Puritans. Papists. Brownists. Calvinists. Lutherans. Fam. of love. Mahometans. Adamites. Brightanists. Armenians. Sosinians. Thessalonians. Anabaptists. Separatists. Chaldæans. Electrians. Donatists. Persians. Antinomeans. Assyrians. Macedonians. Heathens. Panonians. Saturnians. Junonians. Bacchanalians. Damassians. The Brotherhood.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81543</idno>
+            <idno type="STC">Wing D1662</idno>
+            <idno type="STC">Thomason E168_7</idno>
+            <idno type="STC">ESTC R14635</idno>
+            <idno type="EEBO-CITATION">99859706</idno>
+            <idno type="PROQUEST">99859706</idno>
+            <idno type="VID">157008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157008)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E168[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of 29, sects here in London, all of which, except the first, are most divelish and damnable, being these which follow. Protestants. Puritans. Papists. Brownists. Calvinists. Lutherans. Fam. of love. Mahometans. Adamites. Brightanists. Armenians. Sosinians. Thessalonians. Anabaptists. Separatists. Chaldæans. Electrians. Donatists. Persians. Antinomeans. Assyrians. Macedonians. Heathens. Panonians. Saturnians. Junonians. Bacchanalians. Damassians. The Brotherhood.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian sects --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157008:1" rendition="simple:additions"/>
+            <p>A DISCOVERY Of 29. <hi>Sects</hi> here in <hi>London.</hi> all of which, except the firſt, are moſt Diveliſh and Damnable, being theſe which follow.
+<list>
+                  <item>Proteſtants.</item>
+                  <item>Puritans.</item>
+                  <item>Papiſts.</item>
+                  <item>Browniſts.</item>
+                  <item>Calviniſts.</item>
+                  <item>Lutherans.</item>
+                  <item>Fam. of love.</item>
+                  <item>Mahometans.</item>
+                  <item>Adamites.</item>
+                  <item>Brightaniſts.</item>
+                  <item>Armenians.</item>
+                  <item>Soſinians.</item>
+                  <item>Theſſalonians.</item>
+                  <item>Anabaptiſts.</item>
+                  <item>Separatiſts.</item>
+                  <item>Chaldaeans.</item>
+                  <item>Electrians.</item>
+                  <item>Donatiſts.</item>
+                  <item>Perſians.</item>
+                  <item>Antinomeans.</item>
+                  <item>Aſſyrians.</item>
+                  <item>Macedonians.</item>
+                  <item>Heathens.</item>
+                  <item>Panonians</item>
+                  <item>Saturnians.</item>
+                  <item>Junonians.</item>
+                  <item>Bacchanalians.</item>
+                  <item>Damaſſians.</item>
+                  <item>The Brotherhood.</item>
+               </list>
+            </p>
+            <q>
+               <p>My houſe is called a houſe of Prayer, but yee have made it a den of theeves,</p>
+               <bibl>Mat. 21.13.</bibl>
+            </q>
+            <p>Printed Anno, 1641.</p>
+            <p>PRINTED. 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:157008:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>GEntle Reader,</salute>
+            </opener>
+            <p>I have deſcryed within this City of London, no leſſe then 29 <hi>Sects,</hi> all which thou maiſt read in the Title, of which there is but one, which are not moſt damnable and wic<g ref="char:EOLhyphen"/>ked. This have I undertaken, that the good might ſee and hate, and the wicked ſeeing their errors deſpiſe. But I ſhall onely give a touch of each, becauſe my inten<g ref="char:EOLhyphen"/>tion is onely for a Pamphlet.</p>
+         </div>
+      </front>
+      <body>
+         <div type="description_of_religious_sects">
+            <div type="sect">
+               <head>The Proteſtant,</head>
+               <p>THis Religion which you ſee here placed firſt, is not unknowne unto you in the true badge of a <hi>Chriſtian,</hi> neither can the placing of it among theſe corrupted Sects, any whit dimi<g ref="char:EOLhyphen"/>niſh its luſter: it is like to a Diamond, which, though it bee caſt to the Dung-hill, loſeth not a jot of its ſplendor, or like to a <hi>Glow-worme</hi> which ſhineth moſt brightly in the night: judge favourably of the <hi>Au<g ref="char:EOLhyphen"/>thor,</hi> for his intentions are good towards the <hi>Prote<g ref="char:EOLhyphen"/>ſtant Religion,</hi> hee hath placed it here to this intent, <hi>that the ignorant Profeſſors of the reſt may ſee the light, which ſeemes more glorious to thoſe who have walked ſo long in darkneſſe.</hi>
+               </p>
+            </div>
+            <div type="sect">
+               <head>The Puritans.</head>
+               <p>Here is one which is fluttered from the Cage of <hi>Amſterdam,</hi> ſtriving to poyſon, as neare as he can, the
+<pb n="3" facs="tcp:157008:2"/>truth with his true-lyes, he holds with <hi>Conventicles, and private meetings,</hi> hee ſpeakes through the noſe, holding that it was made for the ſame purpoſe.</p>
+            </div>
+            <div type="sect">
+               <head>The Papiſt.</head>
+               <p>This is an old <hi>Recuſant to the truth,</hi> dect with his <hi>Beads, Croſſes, &amp; Crucifixes, Cheap-ſide-croſſe</hi> cannot ſtand in quiet for him, being troubled with his daily <hi>adorations:</hi> he is aſhamed to pray to God himſelfe his <hi>prayers are ſo full of Idolatry,</hi> but hee muſt have Saints to interceed from him.</p>
+            </div>
+            <div type="sect">
+               <head>The Browniſt.</head>
+               <p>This is a fellow which is all wit but the heade, he had rather heare a Cobler, or a Feltmaker preach, ſo hee doth it <hi>extempore,</hi> then heare a premeditated Sermon, pend, and preach'd by a Scholler who can diſtinguiſh, and unloke the ſecrets of the Scripture.</p>
+            </div>
+            <div type="sect">
+               <head>The Callvianiſt.</head>
+               <p>Now followeth one which holds his Antiquitie from <hi>Calvin</hi> whoſe opinion was as far diſtant one way, as the Papiſts is the other way, they will not allow of that which beares but the name of a Cere<g ref="char:EOLhyphen"/>mony.</p>
+            </div>
+            <div type="sect">
+               <head>The Lutheran.</head>
+               <p>This <hi>Luther</hi> from whom they take their name was at firſt a great Recuſant, till it pleaſed God to enlighten his eyes, and fled hither into <hi>England</hi> for Religion ſake, now you may immagine that he returned a great main point which were erroneous, and they yet practiſe them.</p>
+            </div>
+            <div type="sect">
+               <pb n="4" facs="tcp:157008:3"/>
+               <head>The Familie of loue.</head>
+               <p>Her's a loving ſect preſented to you they thinke that a man may gaine ſalvation by ſhewing himſelfe loving, eſpecially to his neighbours wife; For by their Law it is allowed for one man to lye with a<g ref="char:EOLhyphen"/>nother mans wife whilſt he ſleepeth.</p>
+            </div>
+            <div type="sect">
+               <head>The Mahometans.</head>
+               <p>This ſect is led along with a certaine fooliſh be<g ref="char:EOLhyphen"/>liefe of <hi>Mahomet,</hi> which profeſſed himſelfe to be a <hi>Prophet,</hi> and this was his manner of deceiving: He taught a pigeon to pecke a peaſe from forth his eare, bearing the ignorant in hand that the <hi>Holy Ghoſt</hi> brought him newes from Heaven.</p>
+            </div>
+            <div type="sect">
+               <head>The Adamites.</head>
+               <p>Here is a ſhameleſſe ſect, they ground their re<g ref="char:EOLhyphen"/>ligion from our Father <hi>Adam</hi> (and yet they goe na<g ref="char:EOLhyphen"/>ked when they heare prayers or propheſying, when he did himſelfe) from the preſence of God becauſe he was naked.</p>
+            </div>
+            <div type="sect">
+               <head>The Britaniſts.</head>
+               <p>This ſect is not of very long ſtanding, they hold with <hi>Conventicles,</hi> are enemies to the very name of a Biſhop, holding with civill government, having no Miniſters but Prophets, according as the Spirit ſhall move them.</p>
+            </div>
+            <div type="sect">
+               <head>The Armenians.</head>
+               <p>
+                  <hi>Armenius</hi> was the firſt of this Sect, they hold many unhallowed things, as <hi>liberum arbitrium,</hi> Pe<g ref="char:EOLhyphen"/>nances, Faſts, and ſuch like, nay J thinke I moſt nee<g ref="char:EOLhyphen"/>reſt
+<pb n="5" facs="tcp:157008:3"/>expreſſe them, when J call them Couzin Ger<g ref="char:EOLhyphen"/>man to the Papiſt.</p>
+            </div>
+            <div type="sect">
+               <head>The Soſinians.</head>
+               <p>
+                  <hi>Soſinus,</hi> the wrangling Diſputant was the Father of this Sect; They hold no true point at all with the <hi>Proteſtant,</hi> but wrangle in every <hi>Article.</hi>
+               </p>
+            </div>
+            <div type="sect">
+               <head>The Theſſalonians.</head>
+               <p>Theſe men hold onely the new Teſtament to be Canonicall, they will not allow of any thing of the old Teſtament; They alſo ſet a prefixed time for the day of judgment, ſaying that before hand they know who ſhall be ſaved, and who ſhall be damned.</p>
+            </div>
+            <div type="sect">
+               <head>The Anabaptiſts.</head>
+               <p>Theſe men ſet themſelves wholly againſt the <hi>Doctrine</hi> of <hi>John the Baptiſt,</hi> except onely in this that they will baptize with Water, but they will not doe it whileſt they are children, till they be able to anſwer for themſelves. They write themſelves Members and Children of God, and certaine inhe<g ref="char:EOLhyphen"/>ritours of the Kingdome of Heaven.</p>
+            </div>
+            <div type="sect">
+               <head>The Separatiſts.</head>
+               <p>The Latine word <hi>Separo,</hi> doth fully denote their fooliſh opinions, they will not keep company with the wicked <hi>(as they tearme them)</hi> for feare they bee taken, as <hi>Aeſops</hi> ſpeaking <hi>daw</hi> was.</p>
+            </div>
+            <div type="sect">
+               <head>The Chaldeans.</head>
+               <p>
+                  <hi>Chaldeus</hi> a notable <hi>Negromancer,</hi> was the firſt which brought up this new Religion, they hold it fit to goe to the <hi>Divell</hi> to know any ſecret.</p>
+               <q>
+                  <pb n="6" facs="tcp:157008:4"/>
+                  <l>Iuſt like Medeas charmes who then durſt tell,</l>
+                  <l>If heaven did faile, ſhe would command all hell.</l>
+               </q>
+            </div>
+            <div type="sect">
+               <head>The Electrians.</head>
+               <p>They ſay themſelves to be Gods choſen, they ga<g ref="char:EOLhyphen"/>ther two from a houſe, and one of a family.</p>
+            </div>
+            <div type="sect">
+               <head>The Donatiſts.</head>
+               <p>Now here comes our charitable <hi>Sect,</hi> who though they have bin <hi>Whore-mongers, Adulterers, Theeves or murtherers,</hi> yet if they give of their ſtore to the <hi>poore</hi> for that good deed, they merit everlaſting life.</p>
+            </div>
+            <div type="sect">
+               <head>The Perſians.</head>
+               <p>This Sect hath juſt as much Religion as a Beaſt, and no more; for they bow in <hi>adoration</hi> to the riſing Sun, and I have read as much, that the <hi>Elephants</hi> adore the Moone.</p>
+            </div>
+            <div type="sect">
+               <head>The Antinomeons.</head>
+               <p>The derivation of their name is from the <hi>Greeke words, anti nomos,</hi> which ſignifies as much as <hi>Law-breakers,</hi> men that will live after their owne <hi>Lawes,</hi> nay, they will not yeeld that any one of their owne Sect ſhall command another.</p>
+            </div>
+            <div type="sect">
+               <head>The Aſsyrians.</head>
+               <p>
+                  <hi>Syrus</hi> of <hi>Syria in Chalcidea,</hi> was the firſt that ever brought up this Sect, for hee being in love with a Maid knew not how to enjoy her company without the invention of this <hi>conventicle,</hi> where there is no talke, but muſt ſavour of love.</p>
+            </div>
+            <div type="sect">
+               <head>The Macedonians.</head>
+               <p>Theſe hold themſelves onely ſubjects to the King
+<pb n="7" facs="tcp:157008:4"/>of <hi>Macedon,</hi> who is their God and King of the whole <hi>World.</hi>
+               </p>
+            </div>
+            <div type="sect">
+               <head>The Heathens.</head>
+               <p>Theſe hold that there is a God, and they feare that God, but they hold that he is ſo Majeſtical and proud, that hee will not meddle with men; There<g ref="char:EOLhyphen"/>fore they live very Beaſt-like.</p>
+            </div>
+            <div type="sect">
+               <head>The Panonians.</head>
+               <p>Theſe men doe all goe like Shepheards, and they worſhip the Heathen God <hi>Pan,</hi> whom they feigne to be the God of Sheepe.</p>
+            </div>
+            <div type="sect">
+               <head>The Saturnians.</head>
+               <p>The <hi>Saturnians</hi> worſhip one Saturne, whom they ſay was King of Heaven, but hee was baniſhed from thence by his Sonne <hi>Iupiter,</hi> who they ſay reignes now in Heaven.</p>
+            </div>
+            <div type="sect">
+               <head>The Iunonians.</head>
+               <p>Contrary are theſe to the opinions of the <hi>Satur<g ref="char:EOLhyphen"/>nians,</hi> for they ſay that <hi>Saturne</hi> dyed, and left his Daughter <hi>Iuno</hi> Queen of heaven, who married with this <hi>Jupiter,</hi> and made him God, and from their loines have proceeded the reſt of the Gods.</p>
+            </div>
+            <div type="sect">
+               <head>The Bacchanalians.</head>
+               <p>Theſe men are more mad, ignorant, or impious then the reſt, for they thinke, nay they certainly be<g ref="char:EOLhyphen"/>leeve, that they ſhall gaine Heaven by drinking healths, and he which can drink moſt is worſhipped among them, ſaying that hee is choſen a Prieſt to <hi>Bacchus.</hi>
+               </p>
+            </div>
+            <div type="sect">
+               <pb n="8" facs="tcp:157008:5"/>
+               <head>The Damaſcians.</head>
+               <p>From <hi>Damas</hi> they are called <hi>Damaſcians,</hi> and this <hi>Damas</hi> is a <hi>Mountain</hi> in <hi>Perſia,</hi> where they ſay, that our Saviour preached unto the people of that Countrey; for which cauſe, they will heare no preaching at all, but what ſhall be delivered on that <hi>Mount.</hi>
+               </p>
+            </div>
+            <div type="sect">
+               <head>The Brotherhood.</head>
+               <p>Now I am come to a <hi>Period, for here is the Bro<g ref="char:EOLhyphen"/>therhood, which is our laſt ſect, yet one too many, as are all the reſt which are Sects.</hi> It is unlawfull among them to call any one, by any other name then Brother, or Siſter, and they are as <hi>Whoring rogues,</hi> as ever brea<g ref="char:EOLhyphen"/>thed, but it is Religion among them, when it is done in zeale, you muſt pronounce the ſame termes which they doe, or elſe you are prophane, as hee taught well not preacht, &amp;c.</p>
+            </div>
+            <div type="conclusion">
+               <p>Here Reader, maiſt thou ſee, how I have briefly run o<g ref="char:EOLhyphen"/>ver theſe 29. <hi>Sects:</hi> reade it over, and the Lord give thee grace to make the beſt uſe of it, that is, to apply thy ſelfe to the firſt, and hate and eſchew all the reſt.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
